@@ -32,4 +32,6 @@ pip3 install -r requirements.txt
 
 🛠 Usage
 bash
-python3 takeover-checker.py -l urls.txt
+python3 beast-takeover.py -l urls.txt
+<img width="1480" height="642" alt="image" src="https://github.com/user-attachments/assets/12fdad65-08d7-45e6-a35d-1ac6445ad570" />
+
