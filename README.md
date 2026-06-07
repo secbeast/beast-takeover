@@ -1,3 +1,5 @@
+“subdomain takeover scanner”, “bug bounty tool”, “DNS reconnaissance”.
+
 🐉 Beast‑Takeover
 Stay Hungry. Stay Beastly. Hunt Down Subdomain Takeovers!
 
